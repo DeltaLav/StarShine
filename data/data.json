@@ -1,0 +1,19 @@
+{
+    "name":"STARSHINE",
+    "type":"tienda",
+    "social":[
+        {
+            "name":"Facebook",
+            "url":""
+        },
+        {
+            "name":"Instagram",
+            "url":""
+        },
+        {
+            "name":"Whatsapp",
+            "url":""
+        }
+    ],
+    "description":""
+}
